@@ -1,0 +1,89 @@
+body{
+    background-color: black;
+
+}
+
+#welcome-text{
+    margin-top: -355px;
+    margin-inline-start: 133px;
+    font-size: 1.8em;
+    margin-bottom: -29px;
+}
+
+#logo{
+    margin-bottom: -35px;
+}
+
+.options{
+    margin-left: 550px;
+}
+
+#delivers{
+    margin-top: 125px;
+    margin-inline-start: 255px;
+    font-size: 1.5em;
+    margin-bottom: 204px;
+    color: #EADEDE;
+} 
+
+h1{
+    color: #EADEDE;
+    
+}
+
+.ord-1{
+    color: #EADEDE;
+    margin-left: 45px;
+}
+.ord-2{
+    color: #EADEDE;
+    
+}
+
+p{
+    color: #F58840;
+}
+
+a{
+    color: #F58840;
+}
+
+.img-1{
+    margin-left: 49px;
+}
+
+.info-1{
+    color: #EADEDE;
+    margin-inline-end: 987px;
+    margin-left: 48px;
+}
+
+.img-2{
+    margin-inline: 447px;
+}
+
+.info-2{
+    color: #EADEDE;
+    margin-inline: 447px;
+}
+
+#up-ord2{
+    margin-block-start: -324px;
+    margin-inline: 447px;
+}
+
+#up-ord4{
+    margin-block-start: -324px;
+    margin-inline: 447px;
+}
+
+#up-ord6{
+    margin-block-start: -324px;
+    margin-inline: 447px;
+}
+
+footer{
+    margin-block-start: 54px;
+    margin-inline: 47px;
+}
+
