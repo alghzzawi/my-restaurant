@@ -1,3 +1,6 @@
+.centerAll{
+    margin-left: 20%;
+}
 body{
     background-color: black;
 
@@ -54,8 +57,9 @@ a{
 
 .info-1{
     color: #EADEDE;
-    margin-inline-end: 987px;
     margin-left: 48px;
+    width: 29%;
+    
 }
 
 .img-2{
@@ -80,6 +84,7 @@ a{
 #up-ord6{
     margin-block-start: -324px;
     margin-inline: 447px;
+    margin-top: -289px;
 }
 
 footer{
